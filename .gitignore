@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.aider.tags.cache.v4/
+
+checkpoints/
+checkpoints_ft/
+dfdc_train_part_0;
+data/
+exp/
+img/
+*.mp4
+*.csv
+
+.env
+.venv/
+venv/
